@@ -1,0 +1,8 @@
+user
+
+operator
+pass=123456
+peminjam
+pass=123456
+aholll
+pass=123456
